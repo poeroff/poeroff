@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![NEXT](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react.js-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript.js-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
