@@ -43,8 +43,7 @@
 
 ## ✨ **About Me**
 
-- 🌱 **현재**: 웹 프론트엔드 & 백엔드 개발 학습, Flutter를 활용한 앱 개발 시도 중
-- 🔥 **관심사**: 클라우드 인프라(Docker, Kubernetes), 애자일 개발 문화, 알고리즘 문제 풀이
+- 🌱 **현재**: 웹 프론트엔드 & 백엔드 개발 학습, Flutter를 활용한 꾸준한 개발
 - 🎯 **목표**: 기술 스택을 늘려서 다양한 프로젝트를 진행하고, 오픈소스에도 기여해보기
 
 <br />
@@ -72,8 +71,7 @@
 ## 📫 **Contact**
 
 - **GitHub**: [github.com/poeroff](https://github.com/poeroff)
-- **Email**: chlxodud04@OOO.com (예시)
-- **Blog**: [블로그나 개인 사이트가 있다면 추가](#)
+- **Email**: chlxodud04@naver.com (예시)
 
 ---
 
