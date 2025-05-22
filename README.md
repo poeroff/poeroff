@@ -72,7 +72,7 @@
 ## 📫 **Contact**
 
 - **GitHub**: [github.com/poeroff](https://github.com/poeroff)
-- **Email**: chlxodud04@naver.com (예시)
+- **Email**: chlxodud04@naver.com 
 
 ---
 
